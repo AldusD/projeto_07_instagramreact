@@ -391,3 +391,13 @@ body {
     top: 4px;
   }
 }
+
+/* My Styles */
+
+.heart :first-child {
+  color: red;
+}
+
+.heart-outline :first-child {
+  color: black;
+}
